@@ -1,19 +1,18 @@
 # Projetos de Análise de Dados utilizando SQL
 
-Este repositório contém uma coleção de projetos de análise de dados desenvolvidos para diferentes contextos e necessidades. Cada projeto utiliza ferramentas como Power BI e outras técnicas de análise para extrair insights valiosos a partir de conjuntos de dados específicos.
+Este repositório contém uma coleção de projetos de análise de dados desenvolvidos para diferentes contextos e necessidades. Cada projeto utiliza SQL para extrair insights valiosos a partir de conjuntos de dados específicos.
 
 ## Lista de Projetos
 
-### People Analytics
+### Análise de Fatores que Afetam os Preços de Notebooks
 
-**Objetivo:** Analisar dados dos funcionários de uma empresa fictícia para melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas.
+**Objetivo:** Analisar os fatores que influenciam os preços dos computadores portáteis utilizando SQL.
 
 **Resumo:**
-Este projeto visa analisar dados dos funcionários de uma empresa fictícia para otimizar a gestão de recursos humanos, investigando admissões, movimentações internas, desligamentos voluntários ou demitidos, e métricas mensais. Insights revelaram que mudanças culturais e fusões foram motivos principais para desligamentos, enquanto a redução de contratações em 2018 refletiu a falta de demanda do mercado.
+Este projeto analisou os fatores que influenciam os preços dos computadores portáteis, utilizando dados detalhados do Kaggle. Foram examinados aspectos como marca, tipo de memória, processador e presença de touchscreen. A análise revelou como cada um desses fatores afeta o preço dos laptops, fornecendo insights valiosos para consumidores, fabricantes e revendedores. Através dessa abordagem, o projeto demonstrou a capacidade de utilizar SQL para extrair informações úteis e apoiar decisões informadas sobre a compra e venda de laptops.
 
 <p align="center">
-  <img src="People-Analytics/peopleanalytics.gif" width="60%">
+  <img src="Vendas-de-notebooks/vendasnotebooks.gif" width="60%">
 </p>
 
-- **Link para o projeto:** [Vendas de notebooks - databricks](https://thunder-root-duchess.glitch.me)
-
+- **Link para o projeto:** [Análise de Fatores que Afetam os Preços de Notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks)
